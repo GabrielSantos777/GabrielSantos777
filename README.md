@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielSantos777, sou iniciante em programção.
 - 👀 I’m interested in  Front-end
-- 🌱 I’m currently learning HTML5 e CSS3
+- 🌱 I’m currently learning HTML5, CSS3 e JavaScript
 - 💞️ I’m looking to collaborate on  projetos , para praticar o que estou aprendendo no curso.
 - 📫 How to reach me ...
 
