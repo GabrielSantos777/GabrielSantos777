@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielSantos777, sou um amante da tecnologia!,
 - 📫 Cursando Ciências da Computação,
 - 📫 Técnico em Informática,
-- 🌱 I’m currently learning HTML5, CSS3 e JavaScript
+- 🌱 I’m currently learning Javascript and React
 
 
 <!---
