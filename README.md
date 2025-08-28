@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielSantos777, sou um amante da tecnologia!,
 - 📫 Cursando Ciências da Computação,
-- 📫 Web Developer Full Stack,
+- 📫 Full Stack Developer,
 - 🌱 I’m currently learning SQL and PHP.
 
 
